@@ -1,6 +1,9 @@
 # SDRbright
 A lightweight background utility for Windows 11 that provides laptop-style hotkeys with OSD to adjust the "SDR content brightness" on HDR-enabled displays
 
+<img src="./assets/OSDexample.png" alt="SDRbright in action" width="324" height="54">
+
+
 ## Usage
 Go to the Releases page
 
