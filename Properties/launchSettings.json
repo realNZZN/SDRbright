@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "SDRbright (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SDRbright (Unpackaged)": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    },
+    "Profile 1": {
+      "commandName": "Executable"
+    }
+  }
+}
