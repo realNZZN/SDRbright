@@ -3,11 +3,16 @@ A lightweight background utility for Windows 11 that provides laptop-style hotke
 
 ## Usage
 Go to the Releases page
+
 Download the latest SDRbright.exe
+
 Run it. The application will live in your system tray.
 
-Ctrl+Win+= Increase brightness by 10
-Ctrl+Win+- Decrease brightness by 10
+
+
+`Ctrl+Win+=` Increase brightness by 10
+
+`Ctrl+Win+-` Decrease brightness by 10
 
 ## How it works
 The official SDR Brightness slider in Windows configures the SDR white level through a direct undocumented interface with the graphics driver and d3d12. Because there are no publicly available APIs for this purpose, this program has to use a workaround.
@@ -35,4 +40,4 @@ Use Visual Studio 2026 with the .NET 8.0 SDK
 
 # Licensing
 This project is licensed under the GNU GPLv3 License.
-Sun icon adapted from microsoft/fluentui-system-icons
+Icons adapted from microsoft/fluentui-system-icons
