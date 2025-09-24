@@ -22,6 +22,7 @@ This is a very roundabout way of doing things, and any Windows update could brea
 
 ## Requirements
 x64 Windows 11
+
 .NET 8.0 Runtime
 
 ## Known issues
